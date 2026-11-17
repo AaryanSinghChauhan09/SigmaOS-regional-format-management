@@ -3,7 +3,7 @@ name = "SigmaOS-regional-format-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "regional-format-management component"
+description = "Regional Format Management"
 upstream = []
 
 [contract]
